@@ -1,0 +1,4 @@
+BUILD/
+DaViewer.app/
+.DS_Store
+.qmake.stash
